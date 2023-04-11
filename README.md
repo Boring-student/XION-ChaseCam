@@ -1,23 +1,25 @@
-# XION-ChaseCam
-This is a free-to-use HTML/javascript based overlay for roleplay streamers.  Basically it mimics the overlay of the AXON bodycam, but since most folks play in 3rd person, it's a ChaseCam.  I've included a logo, and the html file.  The html file has the css, html, and javascript all in one file for ease of editing.  Goto line 81 of the html file to change your information, and be sure to read the readme.txt file for further information.
+# XION-ChaseCam with Custom Firmware 
+This is a free-to-use HTML/javascript based overlay for roleplay streamers.  Basically it mimics the overlay of the AXON bodycam, but since most folks play in 3rd person, it's a ChaseCam.  I've included a logo, and the html file.  The html file has the css, html, and javascript all in one file for ease of editing.  Edit whatever you want I have comments important stuff that you want to change.
 
 # Screenshot(s)
 
-![Ofc Hightower](https://i.imgur.com/Bzzyxpw.png)
+![Myself](https://user-images.githubusercontent.com/74827801/231205008-c5d00b3e-5552-4fe2-8ad6-38fcb1b55e46.png)
 
-![Deputy Barnes](https://i.imgur.com/WyYo6jt.png)
+
+![Myself](https://user-images.githubusercontent.com/74827801/231199091-31663d1e-06f5-4053-967e-4b78846e34a0.png)
+
 
 
 
 # How to use:
 
-1) create a directory for the script to reside
+1) Download or clone this repo
 
-2) put files (including this one) into that directory
+2) open top-right.html, And Edit whatever you want I have comments important stuff that you want to change. 
 
-3) open top-right.html, goto line 81, and change the info for "player", "agency", "callsign" making sure to preserve the
-
-   formatting and any quotes.  If you need a quote or other punctuation mark in your name/agency/callsign please refer to
+   making sure to preserve the formatting and any quotes.  
+   
+   If you need a quote or other punctuation mark in your name/agency/callsign please refer to
 
    this: https://www.toptal.com/designers/htmlarrows/punctuation/   and utilize the code labelled as "HTML ENTITY".
 
@@ -38,20 +40,28 @@ This is a free-to-use HTML/javascript based overlay for roleplay streamers.  Bas
    
 5) Save the file and enjoy!
 
-# People/Communities I've found that use it religiously!
+# People/Communities I've found that use it.
 
-These fine folks use it all the time and I thank you from the bottom of my heart!
+These fine folks use it all the time not gonna lie :)
 (As I find them, I'll add them here)
 
-SonoranCAD (https://info.sonorancad.com/integration-plugins/twitch-overlay-and-bot#bodycam-overlay ) offers a modified version that puts in your location information.
+Couple people with Public Service of [OGVRP](https://discord.gg/OGVRP)
 
-DirtRoadDeputy (https://www.twitch.tv/dirtroaddeputy)
+ [![image Official Greenville Roleplay](https://user-images.githubusercontent.com/74827801/231196854-18deb404-9ee8-4e46-a945-a70c5037b427.png)](https://discord.com/servers/official-greenville-roleplay-586867452407840768)
 
-SheriffStrafe (https://www.tiktok.com/@sheriffstrafe) <3
 
-(more to come, I promise.  If you use it, and would like to be mentioned, drop me a message (please no spam). At the very least, your usage will be immortalized here. :) )
+
+
+(Please message me if you want me to add you here.)
 
 # Version History:
+
+v3.5: Change logo
+
+v3.4: Adding a lot of comments as much as possible to make it more customizable. 
+
+v3.3: Update Readme. (~~Is it necessary?~~ OBVIOUSLY)
+
 v3.2: Fix submited by @tyrope . Now when the local clock hits midnight, it will update the date as well.  Thanks for the fix!
 
 v3.1: double beep added by user @spaz926 .  Thanks for the addition!
